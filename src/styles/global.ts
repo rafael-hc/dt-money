@@ -4,10 +4,7 @@ export const GlobalStyle = createGlobalStyle`
     *{
         margin: 0;
         padding: 0;
-        box-sizing: border-box;     
-        
-        transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
-        transition-duration: 0.2s;
+        box-sizing: border-box;
     }
 
     :focus{

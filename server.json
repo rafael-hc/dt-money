@@ -23,6 +23,14 @@
             "category": "Venda",
             "price": 10000,
             "createdAt": "2022-08-14T18:10:51.039Z"
+        },
+        {
+            "id": 4,
+            "description": "Ignite Rocketseat",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 1980,
+            "createdAt": "2022-08-12T18:10:51.039Z"
         }
     ]
 }

@@ -1,36 +1,76 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2022-08-15T18:17:51.039Z"
-        },
-        {
-            "id": 2,
-            "description": "Hambúrguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2022-08-15T18:10:51.039Z"
-        },
-        {
-            "id": 3,
-            "description": "Desenvolvimento do coffee",
-            "type": "income",
-            "category": "Venda",
-            "price": 10000,
-            "createdAt": "2022-08-14T18:10:51.039Z"
-        },
-        {
-            "id": 4,
-            "description": "Ignite Rocketseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1980,
-            "createdAt": "2022-08-12T18:10:51.039Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-08-15T18:17:51.039Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-08-15T18:10:51.039Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento do coffee",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2022-08-14T18:10:51.039Z"
+    },
+    {
+      "id": 4,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-08-12T18:10:51.039Z"
+    },
+    {
+      "description": "Salário de agosto",
+      "type": "income",
+      "category": "Salário",
+      "price": 2500,
+      "createdAt": "2022-08-16T18:55:22.814Z",
+      "id": 5
+    },
+    {
+      "description": "Sushi",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 200,
+      "createdAt": "2022-08-16T18:57:15.620Z",
+      "id": 6
+    },
+    {
+      "description": "Combustível",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 100,
+      "createdAt": "2022-08-16T18:59:35.421Z",
+      "id": 7
+    },
+    {
+      "description": "Viagem para Londres",
+      "type": "outcome",
+      "category": "Viagem",
+      "price": 25000,
+      "createdAt": "2022-08-16T19:17:02.427Z",
+      "id": 8
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "category": "venda",
+      "price": 15000,
+      "createdAt": "2022-08-16T19:28:47.097Z",
+      "id": 9
+    }
+  ]
 }
